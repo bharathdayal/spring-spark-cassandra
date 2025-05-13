@@ -1,0 +1,5 @@
+[
+  {"user_id": "user1", "timestamp": "2024-01-01T10:00:00Z"},
+  {"user_id": "user2", "timestamp": "2024-01-02T12:00:00Z"},
+  {"user_id": "user3", "timestamp": "2024-01-01T08:00:00Z"}
+]
